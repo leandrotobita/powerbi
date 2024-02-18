@@ -44,9 +44,9 @@ O desenvolvimento do Dashboard de Recebíveis no PowerBI representou uma soluç�
 
 ## Telas
 
-![Dashboard](TelaDashboard.jpg){ width=800 }
-![Recebíveis](TelaRecebiveis.jpg){ width=800 }
-![Adquirente](TelaAdquirentes.jpg){ width=800 }
+![Dashboard](TelaDashboard.jpg){ Dashboard }
+![Recebíveis](TelaRecebiveis.jpg){ Recebíveis }
+![Adquirente](TelaAdquirentes.jpg){ Adquirentes }
 
 
  
