@@ -36,7 +36,11 @@ O Dashboard de Recebíveis no PowerBI foi criado como parte de um projeto para a
 
 O desenvolvimento do Dashboard de Recebíveis no PowerBI representou uma solução inovadora para os desafios enfrentados pelo departamento financeiro em relação à análise de dados de adquirentes de cartão de crédito. Ao simplificar e automatizar o processo de coleta de dados, garantindo a conformidade das taxas e oferecendo insights valiosos por meio de um dashboard interativo, conseguimos melhorar significativamente a eficiência e eficácia das operações financeiras da empresa. Este projeto demonstra não apenas minhas habilidades técnicas em integração de dados e análise de dados, mas também minha capacidade de entender as necessidades do cliente e desenvolver soluções práticas e inovadoras para atendê-las.
 
- 
+ **Observação:** Os dados utilizados neste projeto são fictícios e foram criados apenas para fins ilustrativos.
+
+
+
+
  
 
 
