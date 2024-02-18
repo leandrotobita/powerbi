@@ -39,7 +39,15 @@ O desenvolvimento do Dashboard de Recebíveis no PowerBI representou uma soluç�
  **Observação:** Os dados utilizados neste projeto são fictícios e foram criados apenas para fins ilustrativos.
 
 
-**Link para o Dashboard:** [Clique aqui](https://x.gd/kZsWj)
+**Link para o Dashboard:** <a href="https://x.gd/kZsWj" target="_blank">Clique aqui</a>
+
+
+## Telas
+
+![Dashboard](TelaDashboard.jpg){ width=800 }
+![Recebíveis](TelaRecebiveis.jpg){ width=800 }
+![Adquirente](TelaAdquirente.jpg){ width=800 }
+
 
  
 
