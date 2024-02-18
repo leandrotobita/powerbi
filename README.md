@@ -48,6 +48,14 @@ O desenvolvimento do Dashboard de Recebíveis no PowerBI representou uma soluç�
 ![Recebíveis](TelaRecebiveis.jpg){ Recebíveis }
 ![Adquirente](TelaAdquirentes.jpg){ Adquirentes }
 
+## Arquivos Disponíveis
+
+Estou disponibilizando os seguintes arquivos para download:
+
+- [PowerBI DSA - Recebiveis.pbix](link_para_download_pbix): Arquivo do PowerBI contendo o dashboard de recebíveis.
+- [dados_recebimentos.txt](link_para_download_txt): Dataset com dados aleatórios de recebimentos, que o usuário pode baixar e personalizar conforme necessário.
+
+
 
  
 
