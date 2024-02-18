@@ -39,7 +39,7 @@ O desenvolvimento do Dashboard de Recebíveis no PowerBI representou uma soluç�
  **Observação:** Os dados utilizados neste projeto são fictícios e foram criados apenas para fins ilustrativos.
 
 
-
+**Link para o Dashboard:** [Clique aqui](https://x.gd/kZsWj)
 
  
 
